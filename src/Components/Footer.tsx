@@ -275,7 +275,7 @@ const Footer: React.FC = () => {
   };
 
   return (
-    <footer className="bg-gray-100">
+    <footer className="">
       {/* Main Footer Content */}
       <div className="max-w-8xl mx-auto px-4 sm:px-6 lg:px-60 pt-12">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-8">
@@ -623,7 +623,7 @@ const Footer: React.FC = () => {
       </div>
 
       {/* Copyright */}
-      <div className="bg-gray-100 border-t-2 mx-auto px-4 sm:px-6 lg:px-60 border-gray-200">
+      <div className="border-t-2 mx-auto px-4 sm:px-6 lg:px-60 border-gray-200">
         <div className="max-w-7xl mx-auto py-4 pb-8">
           <div className="text-center text-sm md:text-md text-black">
             All rights are reserved by the company by{" "}

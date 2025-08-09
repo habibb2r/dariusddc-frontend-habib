@@ -50,7 +50,7 @@ export default function UserProfileSidebar() {
   };
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   return (
-    <div className=" bg-gray-50 fixed ">
+    <div className="  fixed ">
       <div className="flex">
         {/* Sidebar - only show on md+ */}
         <div className=" w-full md:w-80 lg:w-80 bg-white  min-h-screen hidden md:block">

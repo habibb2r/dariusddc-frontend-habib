@@ -48,7 +48,7 @@ export default function page() {
   };
   return (
     // akhane cintainer marte hbe 
-    <div className="container mx-auto min-h-screen bg-white">   
+    <div className="container mx-auto min-h-screen ">   
       <div className=" overflow-hidden">
          {/* Header */}
         <header className="p-3 flex items-center gap-2">

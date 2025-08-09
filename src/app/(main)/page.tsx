@@ -10,7 +10,7 @@ import React from "react";
 
 export default function Home() {
   return (
-    <div className="bg-gray-100">
+    <div className="">
       <div className="flex flex-col md:flex-row max-w-[1600px] mx-auto px-4 sm:px-6 gap-6">
         <div className="md:w-[250px] flex-shrink-0">
           <CategoryMenu />

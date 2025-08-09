@@ -31,7 +31,7 @@ export default function RaffleDetailsPage() {
   };
 
   return (
-    <div className="  p-4 sm:p-6 lg:px-58 bg-gray-100 ">
+    <div className="  p-4 sm:p-6 lg:px-58 ">
       {/* Header */}
       <header className="flex items-center mb-6">
         <Button variant="ghost" size="icon" className="text-gray-600">

@@ -15,7 +15,7 @@ const LoginPage: React.FC = () => {
   };
 
   return (
-    <div className="flex items-center justify-center min-h-screen p-0 md:p-4 rounded-2xl md:rounded-none bg-gray-800 ">
+    <div className="flex items-center justify-center min-h-screen p-0 md:p-4 rounded-2xl md:rounded-none">
       <div className="w-full max-w-xl p-8  rounded-2xl shadow-2xl bg-gradient-to-br from-[#37B9FF] to-[#027BBD] text-white relative border-6 border-white">
         {/* Close button */}
         <button className="absolute top-6 right-6 p-2 cursor-pointer border-2 border-white rounded-full hover:bg-white/20 transition-colors duration-200">

@@ -20,7 +20,7 @@ import img5 from "@/assets/about-4.png";
 
 export default function page() {
   return (
-    <div className="container mx-auto bg-gray-200 min-h-screen">
+    <div className="container mx-auto min-h-screen">
       <div className="">
         {/* Header */}
         <header className="p-6 flex items-center gap-2">

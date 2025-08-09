@@ -101,7 +101,7 @@ export default function CheckoutPage() {
   };
 
   return (
-    <div className="min-h-screen bg-gray-100 p-6">
+    <div className="min-h-screen  p-6">
       <div className="max-w-4xl mx-auto">
         {/* Header */}
         <h1 className="text-2xl font-stretch-50%  text-[#2C2C2C] font-extrabold mb-5 hidden md:block">

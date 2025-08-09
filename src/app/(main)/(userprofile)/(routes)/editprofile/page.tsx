@@ -57,7 +57,7 @@ export default function EditProfilePage() {
   return (
     <div className="w-full p-4 md:p-6 lg:p-8">
       <div className="max-w-7xl mx-auto">
-        <div className="bg-white rounded-2xl shadow-sm p-6 sm:p-8 lg:p-10">
+        <div className=" rounded-2xl shadow-sm p-6 sm:p-8 lg:p-10">
           {/* Header */}
           <button className="text-black text-sm font-medium flex items-center gap-1.5 cursor-pointer md:hidden mb-6">
             <IoIosArrowBack />

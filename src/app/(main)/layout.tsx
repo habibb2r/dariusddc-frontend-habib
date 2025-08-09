@@ -1,6 +1,5 @@
 import { Navbar } from "@/Components/Navber";
 import Footer from "@/Components/Footer";
-
 export default function MainLayout({
   children,
 }: Readonly<{
@@ -9,8 +8,11 @@ export default function MainLayout({
   return (
     <>
       <Navbar />
-      {children}
-      <Footer />
+      <div className="my-bg-div">
+        {children}
+        <Footer />
+      </div>
+      
     </>
   );
 }

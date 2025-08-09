@@ -22,7 +22,7 @@ export default function TombolyHowItWorks() {
   ]
 
   return (
-    <section className="flex justify-center bg-gray-100 max-w-[1600px] mx-auto">
+    <section className="flex justify-center  max-w-[1600px] mx-auto">
       <div className="container px-4 md:px-6 flex flex-col items-center justify-center space-y-8">
         <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl text-center">
           How Tomboly Works?

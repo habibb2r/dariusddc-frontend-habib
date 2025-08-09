@@ -46,7 +46,7 @@ const RegisterPage: React.FC = () => {
   };
 
   return (
-    <div className="flex items-center justify-center min-h-screen p-0 md:p-4 rounded-3xl md:rounded-none bg-gray-800 ">
+    <div className="flex items-center justify-center min-h-screen p-0 md:p-4 rounded-3xl md:rounded-none">
       <div className="w-full max-w-2xl p-4 rounded-3xl shadow-2xl bg-gradient-to-br from-[#37B9FF] to-[#027BBD] text-white relative border-6 border-white">
         
         {/* Close button */}
